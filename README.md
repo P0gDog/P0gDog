@@ -3,19 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p0gdog&label=Profile%20views&color=0e75b6&style=flat" alt="p0gdog" /> </p>
 
-- 🔭 I’m currently working on **making server plugins**
 
-- 🌱 I’m currently learning **C#**
-
-- 🤝 I’m looking for help with **Building a python-based torrent**
-
-- 👨‍💻 All of my projects are available at [https://github.com/P0gDog](https://github.com/P0gDog)
-
-- 💬 Ask me about **Arch Linux!!**
-
-- 📫 How to reach me **pogdog@pogdog.org**
-
-- ⚡ Fun fact **I've got a very cute dog.**
 
 
 
